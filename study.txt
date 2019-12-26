@@ -74,4 +74,37 @@
 # 음 그래 아무튼 오늘은 저걸로 시간 보냈어 나 제대로 살고 있는거 맞겠지
 # 오늘은 여기서 줄일게 내일 또 만나자
 
-# 추가할게 https://www.atlassian.com/git/tutorials/git-move-repository 이건 내자료
+# 추가할게 https://www.atlassian.com/git/tutorials/git-move-repository
+# 이건 레파지토리 클론해서 이사하는 거
+# https://stackoverflow.com/questions/1365541/how-to-move-files-from-one-git-repo-to-another-not-a-clone-preserving-history
+# 이건 위에거 추가 설명
+# https://blog.naver.com/nosleep/220508404275
+# 딜리티드 파일 rm 시키기
+# git bash: add: command not found 해결법
+# https://www.zerocho.com/category/Git/post/580f633046f4fe09815b72a5
+# Git 저장소 생성(init), 최초로 commit하기
+# https://blog.naver.com/sksk3479/221045314657
+# error : Reinitalized existing 어쩌구 고치기
+#https://stackoverflow.com/questions/3212459/is-there-a-command-to-undo-git-init
+# git init 취소
+#https://blog.naver.com/ykm_m/221073988821 
+# github repository 삭제
+# https://blog.naver.com/tweety2411/220754242204
+# error:unknown subcommand:origin 오류 고치기
+# https://stackoverflow.com/questions/5134399/bash-syntax-error-near-unexpected-token-newline
+# bash:syntax error near unexpected token'newline'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
