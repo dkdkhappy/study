@@ -73,3 +73,5 @@
 # 외국인들 진짜 천재더라 물론 번역기 없었으면 알아듣지도 못할뻔
 # 음 그래 아무튼 오늘은 저걸로 시간 보냈어 나 제대로 살고 있는거 맞겠지
 # 오늘은 여기서 줄일게 내일 또 만나자
+
+# 추가할게 https://www.atlassian.com/git/tutorials/git-move-repository 이건 내자료
